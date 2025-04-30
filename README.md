@@ -40,7 +40,7 @@
 
 Сервер предоставляет единственный WebSocket-эндпоинт для получения событий в реальном времени:
 
-```/sensors/{id}/events```
+```GET /sensors/{id}/events```
 
 ## API Endpoints
 
